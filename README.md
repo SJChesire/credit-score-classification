@@ -1,4 +1,5 @@
 Credit score classification with Machine Learning using python
+
 Credit score classification refers to the grouping of credit scores into distinct classes based on the numerical value of the credit score. Credit scores are numerical expressions that represent the creditworthiness of an individual, ranging from good, standard and poor. These scores help lenders assess the risk of lending money to individuals.
 I will take you through the process of credit score classification with Machine learning using Python. 
 You can download the datasets used here https://statso.io/credit-score-classification-case-study/
