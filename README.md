@@ -6,7 +6,9 @@ You can download the datasets used here https://statso.io/credit-score-classific
 We will use Python's pandas for data manipulation, numpy for numerical operations, and plotly for visualization.
 
 We will follow 7 steps to achieve our goal
+
 STEP 1: Import the necessary libraries.
+
 STEP 2: Load and inspect the data
 The datasets used here are https://statso.io/credit-score-classification-case-study/
 
